@@ -2,11 +2,11 @@
 
 This app groups the files by their modified date.
 
-**First time usage**
+**First time usage**<br/>
 Make sure you run `npm install` on this folder to download the dependencies.
 
-**Usage**
-`node .\group.js  --path <path>`
+**Usage**<br/>
+`node .\group.js  --path <path>`<br/>
 `node .\group.js  --p <path>`
 
 **Assumptions**
